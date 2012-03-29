@@ -1,0 +1,4 @@
+digraph graphname {
+    node [style=rounded, shape=Mrecord];
+    output[type=output];
+}
